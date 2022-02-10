@@ -21,7 +21,5 @@
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
 
 </head>
-
-<body id="page-top">
-     <!-- Page Wrapper -->
-     <div id="wrapper">
+    <!-- Page Wrapper -->
+    <div id="wrapper">
